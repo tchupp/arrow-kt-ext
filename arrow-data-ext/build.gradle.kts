@@ -1,4 +1,6 @@
 dependencies {
+    api("io.arrow-kt:arrow-data:0.9.0")
+
     // Use the Kotlin JDK 8 standard library.
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
